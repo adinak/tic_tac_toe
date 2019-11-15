@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/adinakatz/CLionProjects/hw3/hw3q1.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+
